@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/chaitr91/TestAngular.svg?branch=master)](https://travis-ci.org/chaitr91/TestAngular)
+
 First Angular Project
 
 1. Install nodeJs
