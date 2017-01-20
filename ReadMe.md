@@ -1,4 +1,4 @@
-First
+First Angular Project
 
 1. Install nodeJs
 2. Install grunt-cli
@@ -11,4 +11,5 @@ First
    concat:To form a string js file.
    uglify: To minify the file.
 
-7.Travis.yml is a build for the entire project ..like installing node, bower, grunt.
+7.Travis.yml is a build for the entire project 
+..like installing node, bower, grunt.
